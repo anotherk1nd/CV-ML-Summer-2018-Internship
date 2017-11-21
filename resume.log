@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.10.15)  21 NOV 2017 15:19
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.10.15)  21 NOV 2017 22:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -852,44 +852,45 @@ LaTeX Info: Redefining \nameref on input line 83.
 
  (./resume/education.tex
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 10.95015pt on input line 21.
+(Font)              scaled to size 10.95015pt on input line 19.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.67863pt on input line 21.
+(Font)              scaled to size 7.67863pt on input line 19.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.45398pt on input line 21.
+(Font)              scaled to size 5.45398pt on input line 19.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.94983pt on input line 21.
+(Font)              scaled to size 10.94983pt on input line 19.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.6784pt on input line 21.
+(Font)              scaled to size 7.6784pt on input line 19.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.45381pt on input line 21.
+(Font)              scaled to size 5.45381pt on input line 19.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/sl' in size <9> not avai
 lable
 (Font)              Font shape `EU1/SourceSansPro(2)/m/it' tried instead on inp
-ut line 21.
+ut line 19.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/sl' in size <8> not avai
 lable
 (Font)              Font shape `EU1/SourceSansPro(2)/m/it' tried instead on inp
-ut line 21.
-) (./resume/experience.tex) (./resume/relevantskills.tex [1
+ut line 19.
+)
+(./resume/relevantskills.tex) (./resume/experience.tex [1
 
-]) (./resume/additionalexperience.tex)
-(./resume/interestsachievements.tex) (./resume/references.tex [2])
+])
+(./resume/additionalexperience.tex) (./resume/interestsachievements.tex)
+(./resume/references.tex)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 97.
- [3]
+ [2]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 97.
-
-(./resume.aux)
+ (./resume.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 97.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 97.
  ) 
 Here is how much of TeX's memory you used:
- 28236 strings out of 493638
- 486576 string characters out of 6146795
- 615559 words of memory out of 5000000
- 31355 multiletter control sequences out of 15000+600000
+ 28237 strings out of 493638
+ 486584 string characters out of 6146795
+ 613559 words of memory out of 5000000
+ 31356 multiletter control sequences out of 15000+600000
  6528 words of font info for 78 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
  53i,11n,68p,10384b,531s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on resume.pdf (3 pages).
+Output written on resume.pdf (2 pages).
